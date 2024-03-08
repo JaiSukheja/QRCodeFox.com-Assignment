@@ -36,3 +36,6 @@ If I had more time, I would consider adding the following features to the task m
 - Task reminders: Allow users to set reminders for their tasks so that they receive notifications when a task is due.
 - Task sharing: Allow users to share tasks with other users, such as family members or colleagues.
 - Task sorting: Allow users to sort their tasks by due date, priority, or category.
+
+
+![alt text](image.png)
